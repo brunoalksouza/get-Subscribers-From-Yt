@@ -1,4 +1,4 @@
-## Bot that captures the number of subscribers on a given YouTube channel
+# Bot that captures the number of subscribers on a given YouTube channel
 <p>
 This is a JavaScript repository that does a very basic Get using puppeteer. With it, you can find out the number of subscribers for a YouTube channel just by typing the channel name in the console.
 <br>
