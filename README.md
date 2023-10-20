@@ -19,7 +19,7 @@ Make sure you have Node and Git installed on your system.
 </p>
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/seu-usuario/repository-name.git
 ```
 
 <p>
