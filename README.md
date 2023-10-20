@@ -10,7 +10,7 @@ Feel free to send questions, criticisms and suggestions, if you have any ideas t
 
 ## Prerequisites
 <p>
-Make sure you have Node and Git installed on your system.
+Make sure you have Node, Npm and Git installed on your system.
 </p>
 
 ## How to use
