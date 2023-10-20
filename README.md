@@ -17,12 +17,15 @@ Make sure you have Node and Git installed on your system.
 <p>
 Make sure you have Node and Git installed on your system.
 </p>
+
 ```
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
+
 <p>
 Navigate to the repository directory:
 </p>
+
 ```
 cd repository name
 ```
