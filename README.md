@@ -47,7 +47,7 @@ node index.js
 ```
 
 <p>
-Digit the name from the channel that you want to get the subscribers
+Digit the name from the channel that you want to get the subscribers:
 </p>
 
 ```
