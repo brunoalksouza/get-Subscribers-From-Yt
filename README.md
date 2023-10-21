@@ -10,7 +10,7 @@ Feel free to send questions, criticisms and suggestions, if you have any ideas t
 
 ## Prerequisites
 <p>
-Make sure you have Npm and Git installed on your system.
+Make sure you have NODE, NPM and Git installed on your system.
 </p>
 
 ## How to use
@@ -38,4 +38,20 @@ Install all the dependencies:
 npm i
 ```
 
+<p>
+Run the program:
+</p>
 
+```
+node index.js
+```
+
+<p>
+Digit the name from the channel that you want to get the subscribers
+</p>
+
+```
+name from channel
+```
+
+---
